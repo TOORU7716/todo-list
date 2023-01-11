@@ -1,0 +1,28 @@
+.App{
+    text-align:center;
+    margin-top: 50px;
+}
+
+.App span{
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+}
+
+.App form{
+    margin-top: 10px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button,.ui.primary.button,.ui.red.button{
+    margin-left: 10px;
+}
+
+.todo-list li{
+    list-style:none;
+    margin-bottom: 5px;
+}
